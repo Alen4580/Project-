@@ -1,0 +1,23 @@
+body {background-color: #00003b;
+font-size: 4rem;}
+h1 { color: white; font-family: serif;
+font-size: 3rem;}
+p { color: white;
+font-family: serif;
+font-size: 2rem;}
+h3 { color: white; font-family: serif;
+font-size: 3rem;}
+li { color: white; font-family: serif;
+font-size: 2rem;}
+tr { color: white; font-family: serif;
+font-size: 2rem;}
+hr { color: #DAA520; font-family: serif;
+font-size: 2rem;
+border-style: groove none none;
+  border-width: 5px;
+  height: 5px;
+  width: 70%;}
+a { color: #00FFFF; font-family: serif;
+font-size: 2rem;}
+alt { color: white; font-family: serif;
+font-size: 3rem;}
